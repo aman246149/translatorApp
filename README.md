@@ -1,16 +1,13 @@
 # translation
 
-A new Flutter project.
+pacakages used in this project
 
-## Getting Started
+- Either 
+- Flutter bloc
+- http
+- speech_to_text
+- uid
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/53884276/182017950-6c5aa198-9663-4570-b7e0-ee8123b28b56.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
